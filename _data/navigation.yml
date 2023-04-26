@@ -1,0 +1,28 @@
+#Please use the main menu items under the "text"
+- text: About Us
+  url: /about
+- text: Features
+  url: /services
+  submenu:
+  - text: Time Clock App
+    url: /404
+  - text: Activity Tracking
+    url: /404
+  - text: Project Management
+    url: /404
+  - text: Time Tracking
+    url: /404
+  - text: Time Reporting
+    url: /404
+- text: Portfolios 
+  url: /portfolios
+- text: Blog
+  url: /blog
+  submenu:
+  - text: Blog Details
+    url: /wordpress-hosting
+  - text: 404
+    url: /404
+- text: Contact Us
+  url: /contact
+ 
